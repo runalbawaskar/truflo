@@ -102,7 +102,7 @@ export default function Home() {
               </div>
 
               <p className={styles.isoDesc}>
-                Your data stays protected with enterprise-grade security
+                Your data is protected with enterprise-grade security
               </p>
             </div>
         </div>
