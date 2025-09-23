@@ -97,8 +97,9 @@ export default function Home() {
     return (
         <div className={styles.isoBox}>
             <div className={styles.isoContent}>
-              <div className={styles.isoLogo}>
-                  <Image src="/assets/iso.png" alt="ISO" width={300} height={300} />
+              <div className={styles.isoLogos}>
+                  <Image className={styles.isoLogoImg} src="/assets/iso.png" alt="ISO" width={220} height={220} />
+                  <Image className={styles.aicpaLogoImg} src="/assets/aicpalogo.png" alt="AICPA" width={220} height={220} />
               </div>
 
               <p className={styles.isoDesc}>

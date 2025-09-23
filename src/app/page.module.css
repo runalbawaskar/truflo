@@ -117,10 +117,25 @@
 }
 
 
-.isoLogo img {
-    width: 200px;
+.isoLogos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+.isoLogos img {
+    width: 160px;
     height: 100%;
     object-fit: contain;
+}
+
+.isoLogoImg {
+    width: 150px !important;
+}
+
+.aicpaLogoImg {
+    width: 150px !important;
 }
 
 .isoDesc {
@@ -211,8 +226,16 @@
     }
 
 
-    .isoLogo img {
-        width: 260px;
+    .isoLogos img {
+        width: 200px;
+    }
+
+    .isoLogoImg {
+        width: 180px !important;
+    }
+
+    .aicpaLogoImg {
+        width: 180px !important;
     }
 
     .isoDesc {
