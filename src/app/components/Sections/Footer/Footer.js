@@ -54,7 +54,7 @@ function Footer() {
             <div className={styles.footerContent}>
                 <div className={styles.footerLogos}>
                     <Image className={styles.footerLogo} src="/assets/logo.png" alt="Truflo" width={400} height={100} />
-                    <Image className={styles.ampliLogo} src="/assets/amplilogo.jpeg" alt="Amplicomm" width={120} height={40} />
+                    <Image className={styles.ampliLogo} src="/assets/amplilogo.jpeg?v=1" alt="Amplicomm" width={120} height={40} />
                     <div className={styles.socials}>
                         {socials.map((social, index) => (
                             <Link className={styles.socialIcon} key={index} href={social.href} target="_blank" rel="noreferrer">
