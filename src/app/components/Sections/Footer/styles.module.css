@@ -25,6 +25,13 @@
     height: 100%;
 }
 
+.ampliLogo {
+    width: 120px;
+    height: auto;
+    filter: grayscale(100%);
+    opacity: 0.85;
+}
+
 .socials {
     display: flex;
     gap: 18px;
@@ -153,6 +160,13 @@
     .footerLogo {
         width: 280px;
         height: 64px;
+    }
+
+    .ampliLogo {
+        width: 120px;
+        height: auto;
+        filter: grayscale(100%);
+        opacity: 0.85;
     }
 
     .socials {
