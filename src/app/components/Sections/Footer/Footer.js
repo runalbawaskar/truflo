@@ -88,6 +88,9 @@ function Footer() {
                 <Link href="/policy">
                     Privacy Policy | 
                 </Link>
+                <Link href="/terms">
+                    Terms Of Use | 
+                </Link>
                 <Link href="/disclaimer">
                     Disclaimer
                 </Link>
