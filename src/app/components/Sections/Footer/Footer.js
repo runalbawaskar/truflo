@@ -45,6 +45,10 @@ function Footer() {
         {
             name: 'Bengaluru :',
             address: '14th Floor, Skav 909, Lavelle road, Bengaluru, Karnataka - 560001',
+        },
+        {
+            name: 'US :',
+            address: '8th The Green STE A Dover DE 19901',
         }
     ]
 
@@ -78,6 +82,9 @@ function Footer() {
                                 </div>
                             ))
                         }
+                    </div>
+                    <div className={styles.footerInfoContent}>
+                        <p className={styles.trademarkNote}>The Trademark ‘Truflo’ including its respective logo, slogan and unique product design, are solely and exclusively owned by Amplicomm Solutions Pvt. Ltd.</p>
                     </div>
                 </div>
             </div>
