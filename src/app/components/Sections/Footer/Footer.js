@@ -83,7 +83,7 @@ function Footer() {
             </div>
             <div className={styles.footerBottom}>
                 <p>Copyright © 2025 Truflo Intelligence | </p>
-                <p>All rights reserved || </p>
+                <p>All rights reserved | </p>
 
                 <Link href="/policy">
                     Privacy Policy | 
