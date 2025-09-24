@@ -41,7 +41,7 @@ function Navbar() {
                         </div>
 
                         <div className={styles.ctaBox}>
-                            <Link href="https://www.amplicommacp.com/" target='_blank' rel="noopener noreferrer" className={styles.txtBtn}>Login</Link>
+                            <Link href="https://analytics.truflo.ai/" target='_blank' rel="noopener noreferrer" className={styles.txtBtn}>Login</Link>
                             <Link href="#leadForm" className={styles.roundBtn}>Contact Us</Link>
                         </div>
                         <div className={styles.xBox} onClick={toggleMenu}>
@@ -66,7 +66,7 @@ function Navbar() {
                                 <Link href="/#milestone">Outcomes</Link>
                             </div>
                             <div className={styles.mobCtaBox}>
-                                <Link href="https://www.amplicommacp.com/" target='_blank' rel="noopener noreferrer" className={styles.txtBtn}>Login</Link>
+                                <Link href="https://analytics.truflo.ai/" target='_blank' rel="noopener noreferrer" className={styles.txtBtn}>Login</Link>
                                 <Link href="#leadForm" className={styles.roundBtn}>Contact Us</Link>
                             </div>
                         </div>
