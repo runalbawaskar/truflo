@@ -60,7 +60,7 @@ function Integrations() {
                 <div className={styles.initImg}>
                     <div className={styles.imageContainer}>
                         <Image 
-                            src="/assets/int.png" 
+                            src="/assets/longicon.png" 
                             alt="int" 
                             width={2100} 
                             height={500}
